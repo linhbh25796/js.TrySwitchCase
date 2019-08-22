@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a7bedae-b038-4611-a09a-334f28f23096" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculator/tinhToan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorPro/.idea/CalculatorPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorPro/calculatorPro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucIfElse/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CauTrucIfElseTry/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraNamNhuan/.idea/KiemTraNamNhuan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraNamNhuan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraNamNhuan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraNamNhuan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KiemTraNamNhuan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TrySwitchCase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BienDuLieuToanTu/BienDuLieuToanTu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BienDuLieuToanTu/BienDuLieuToanTu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/.idea/HienThiOutput.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HienThiOutput/Bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NhungJavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NhungJavaScript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuDungBien/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuDungBien/Bai2.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Plp5dwIMBXXctQRvLDkdHy67n0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calculator" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sign.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TrySwitchCase/sign.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.sign.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a7bedae-b038-4611-a09a-334f28f23096" name="Default Changelist" comment="" />
+      <created>1566458355584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566458355584</updated>
+      <workItem from="1566458356645" duration="3061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
